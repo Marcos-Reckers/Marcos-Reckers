@@ -14,7 +14,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://racket-lang.org/img/racket-logo.svg">
-  <img align="center" height="30" width="40" src="https://github.com/Aircoookie/WLED/blob/main/images/wled_logo_akemi.png?raw=true">
+  <img align="center" height="30" width="60" src="https://github.com/Aircoookie/WLED/blob/main/images/wled_logo_akemi.png?raw=true">
   
 </div>
   
