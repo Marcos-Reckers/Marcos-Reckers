@@ -35,8 +35,9 @@
 Passionate developer in automation, Arduino, bots, and DIY for fun! Exploring the potential of Arduino to create innovative solutions. Seeking challenges and learning in the world of automation. Let's uncover this universe together, share knowledge, and create amazing projects just for the fun of it!
  
 <div> 
+# 🤝🏻 &nbsp;Contact Me
 
-  <a href = "mailto:marcoskurth.r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
- 
+<p align="center">
+<a href="mailto:marcoskurth.r@gmail.com"><img src="https://img.shields.io/badge/-marcoskurth.r@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 </div>
