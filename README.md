@@ -31,7 +31,8 @@
     <img align="center" height="50" width="140" src="https://github.com/Aircoookie/WLED/blob/main/images/wled_logo_akemi.png?raw=true">
   </div>
   
-  ##
+  
+Passionate developer in automation, Arduino, bots, and DIY for fun! Exploring the potential of Arduino to create innovative solutions. Seeking challenges and learning in the world of automation. Let's uncover this universe together, share knowledge, and create amazing projects just for the fun of it!
  
 <div> 
 
