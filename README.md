@@ -9,7 +9,7 @@
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">       
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" height="50" width="70" src="https://e7.pngegg.com/pngimages/250/925/png-clipart-computer-terminal-linux-console-computer-icons-command-line-interface-linux-commandline-interface-linux.png">
+  <img align="center" height="50" width="70" src="">
      
 </div>
 <div style="display: inline_block"><br>
