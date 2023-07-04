@@ -24,7 +24,7 @@
   <img align="center" height="50" width="50" src="https://github.com/dhanishgajjar/terminal-icons/blob/master/png/dracula.png?raw=true">
 </div>
 
-# Just for Fun
+### Just for Fun
 <div style="display: inline_block"><br>
     <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
     <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
