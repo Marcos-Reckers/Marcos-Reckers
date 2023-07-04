@@ -2,19 +2,25 @@
  <div>
   <a href="https://github.com/Marcos-Reckers">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Reckers&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Reckers&layout=compact&langs_count=16&theme=dracula"/>
+     
+</div>
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Reckers&layout=compact&langs_count=16&theme=dracula"/>
     <a href="https://github.com/Marcos-Reckers/Fundamentos_de_algoritmos_RKT_2021-1">
   <img align="center" height="50" width="70" src="https://racket-lang.org/img/racket-logo.svg">
   </a>
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">       
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" height="50" width="50" src="https://github.com/dhanishgajjar/terminal-icons/blob/master/png/dracula.png?raw=true">
-     
+  
 </div>
+
 <div style="display: inline_block"><br>
-<img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"> 
-<img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"> 
+  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" height="50" width="50" src="https://github.com/dhanishgajjar/terminal-icons/blob/master/png/dracula.png?raw=true">
 </div>
 
 # Just for Fun
