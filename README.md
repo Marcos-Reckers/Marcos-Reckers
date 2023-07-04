@@ -1,12 +1,13 @@
 ## 
  <div>
   <a href="https://github.com/Marcos-Reckers">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Reckers&layout=compact&langs_count=16&theme=dracula"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Reckers&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
      
 </div>
 
-<div style="display: inline_block"><br>>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Reckers&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: inline_block"><br>
+ 
     <a href="https://github.com/Marcos-Reckers/Fundamentos_de_algoritmos_RKT_2021-1">
   <img align="center" height="50" width="70" src="https://racket-lang.org/img/racket-logo.svg">
   </a>
