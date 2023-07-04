@@ -5,7 +5,7 @@
      
 </div>
 
-<div>
+<div style="display: inline_block"><br>>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Reckers&layout=compact&langs_count=16&theme=dracula"/>
     <a href="https://github.com/Marcos-Reckers/Fundamentos_de_algoritmos_RKT_2021-1">
   <img align="center" height="50" width="70" src="https://racket-lang.org/img/racket-logo.svg">
