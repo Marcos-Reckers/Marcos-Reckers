@@ -9,7 +9,7 @@
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">       
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" height="70" width="70" src="https://github.com/dhanishgajjar/terminal-icons/blob/master/png/dracula.png?raw=true">
+  <img align="center" height="50" width="50" src="https://github.com/dhanishgajjar/terminal-icons/blob/master/png/dracula.png?raw=true">
      
 </div>
 <div style="display: inline_block"><br>
