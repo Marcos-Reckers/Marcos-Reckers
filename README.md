@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
  
-    <a href="https://github.com/Marcos-Reckers/Fundamentos_de_algoritmos_RKT_2021-1">
+   <a href="https://github.com/Marcos-Reckers/Fundamentos_de_algoritmos_RKT_2021-1">
   <img align="center" height="50" width="70" src="https://racket-lang.org/img/racket-logo.svg">
   </a>
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
